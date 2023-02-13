@@ -3,10 +3,6 @@
 <h6 align="center">I'm Lama Osman a Python Backend Developer and a junior Data Scientist.
 I am passionate about gaining and sharing knowledge. </h6>
 
-:mailbox: Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Connect_with_me-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamaosman/)
-[![Mail Badge](https://img.shields.io/badge/-Send_me_Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:divya.chandran10@gmail.com)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 - 🔭 Recent graduate from Digital Career Institute Gmbh (DCI)
@@ -42,20 +38,18 @@ I am passionate about gaining and sharing knowledge. </h6>
 </p>
 
 
+:mailbox: **Reach out to me:** ️
 
+[![Linkedin Badge](https://img.shields.io/badge/-Connect_with_me-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamaosman/)
+[![Mail Badge](https://img.shields.io/badge/-Send_me_Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:divya.chandran10@gmail.com)
 
+- :paperclip: [My Resume/CV](https://github.com/Lamaosman2012/Lamaosman2012/blob/main/Resume/CV_Lama_Osman.pdf)
 
-#### Business
-- :paperclip: [My Resume/CV](https://github.com/Lamaosman2012/Lamaosman2012/blob/main/Resumes/CV_Lama_Osman.pdf)
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lamaosman2012.Lamaosman2012)
 
-
-
 <br >
-
-
 
 #### Github Stats
 
